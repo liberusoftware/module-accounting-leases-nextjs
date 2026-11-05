@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-leases-nextjs",
+  "capabilityKey": "liberusoftware/module-accounting-leases",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-accounting-leases-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/accounting/nextjs/leases.md",
+  "presentationPlan": "projects/accounting/nextjs/leases.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
